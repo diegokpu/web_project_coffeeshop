@@ -36,6 +36,9 @@
   font-size: 16px;
   line-height: 20px;
   height: 60px;
+  background-color: #2F80ED;
+  color: #ffffff;
+  border: none;
 }
 
 .form__button:hover {
