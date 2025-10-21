@@ -24,3 +24,9 @@
   margin: 8px 0 0;
   padding: 0;
 }
+
+.nav__link{
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
